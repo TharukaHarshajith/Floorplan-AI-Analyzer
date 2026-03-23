@@ -1,0 +1,7 @@
+artifact_location: file:d:/For_Job/floorplan-ai-analyzer/scripts/runs/mlflow/609050620848599557
+creation_time: 1774253235054
+experiment_id: '609050620848599557'
+last_update_time: 1774253235054
+lifecycle_stage: active
+name: runs/train
+workspace: default

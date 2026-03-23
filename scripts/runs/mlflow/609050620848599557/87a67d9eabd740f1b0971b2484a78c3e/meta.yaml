@@ -1,0 +1,14 @@
+artifact_uri: file:d:/For_Job/floorplan-ai-analyzer/scripts/runs/mlflow/609050620848599557/87a67d9eabd740f1b0971b2484a78c3e/artifacts
+end_time: 1774253278273
+entry_point_name: ''
+experiment_id: '609050620848599557'
+lifecycle_stage: active
+run_id: 87a67d9eabd740f1b0971b2484a78c3e
+run_name: floorplan_yolo4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774253238004
+status: 3
+tags: []
+user_id: tharu
