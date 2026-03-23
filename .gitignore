@@ -2,6 +2,7 @@
 /F1_scaled_images
 /images
 
+/venv
+
 scripts/set_image_data_set.ipynb
-
-
+scripts/train.ipynb
