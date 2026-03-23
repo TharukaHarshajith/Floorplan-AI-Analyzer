@@ -1,0 +1,4 @@
+door
+door_t2
+stairs
+window

@@ -1,0 +1,9 @@
+names:
+- door
+- door_t2
+- stairs
+- window
+nc: 4
+test: D:\For_Job\floorplan-ai-analyzer\data\test\images
+train: D:\For_Job\floorplan-ai-analyzer\data\train\images
+val: D:\For_Job\floorplan-ai-analyzer\data\val\images
